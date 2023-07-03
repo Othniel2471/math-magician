@@ -112,8 +112,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] Mobile version of the project
-- [ ] Updating the U.I styles
-- [ ] Use and management of Asynchronous code
+- [ ] Adding dark mode
+- [ ] Use and state management of Asynchronous code
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
