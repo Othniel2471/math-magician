@@ -23,7 +23,7 @@ const CalcBody = () => {
           <button type="button" onClick={handleClick} className="keypad-key keypad-key--operator">AC</button>
           <button type="button" onClick={handleClick} className="keypad-key keypad-key--operator">+/-</button>
           <button type="button" onClick={handleClick} className="keypad-key keypad-key--operator">%</button>
-          <button type="button" onClick={handleClick} className="keypad-key keypad-key--operator last">/</button>
+          <button type="button" onClick={handleClick} className="keypad-key keypad-key--operator last">÷</button>
         </div>
         <div className="num-pad">
           <button type="button" onClick={handleClick} className="keypad-key">7</button>
