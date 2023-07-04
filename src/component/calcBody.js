@@ -33,7 +33,7 @@ const CalcBody = () => (
       <div className="num-pad">
         <button type="button" className="keypad-key keypad-key--double">0</button>
         <button type="button" className="keypad-key">.</button>
-        <button type="button" className="keypad-key keypad-key--operator">=</button>
+        <button type="button" className="keypad-key keypad-key--operator last">=</button>
       </div>
     </div>
   </>
