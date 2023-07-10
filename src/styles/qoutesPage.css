@@ -1,0 +1,34 @@
+.qoutes {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+}
+
+.qoutes .qoutes-title {
+  font-size: 2.5rem;
+  font-weight: 600;
+  color: #000;
+  text-decoration: none;
+  letter-spacing: 1px;
+  padding: 0.5rem;
+}
+
+.qoutes .qoutes-content {
+  font-size: 1.1rem;
+  font-weight: 500;
+  color: #000;
+  text-decoration: none;
+  letter-spacing: 1px;
+  padding: 0.5rem;
+  border-radius: 5px;
+  transition: all 0.3s ease-in-out;
+  display: grid;
+  place-items: center;
+  gap: 10px;
+}
+
+.quote {
+  width: 70%;
+}

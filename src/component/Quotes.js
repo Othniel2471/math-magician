@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import '../styles/qoutesPage.css';
 
 const Quote = () => {
   const [quote, setQuote] = useState('');
@@ -28,7 +29,6 @@ const Quote = () => {
   if (loading) {
     return (
       <div className="quote">
-        <h1>Quote of the day</h1>
         <p>Loading...</p>
       </div>
     );
@@ -45,7 +45,6 @@ const Quote = () => {
 
   return (
     <div className="quote">
-      <h1>Quote of the day</h1>
       <p>{quote}</p>
     </div>
   );
