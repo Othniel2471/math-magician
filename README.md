@@ -1,4 +1,14 @@
 
+<a name="readme-top"></a>
+
+<div align="center">
+
+  <br/>
+
+  <h3><b>Math Magician</b></h3>
+
+</div>
+
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -100,7 +110,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 ## 👥 Authors <a name="authors"></a>
-👤 **MARVIN OTIENO**
+👤 **OMAIDU OTHNIEL**
 
 - GitHub: (https://github.com/othniel2471)
 - Twitter: (https://twitter.com/@Oomaidu)
