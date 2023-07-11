@@ -132,7 +132,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/). Open a New Issue and I'll look intently into your suggestions.
+Feel free to check the [issues page](https://github.com/Othniel2471/math-magician/issues). Open a New Issue and I'll look intently into your suggestions.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

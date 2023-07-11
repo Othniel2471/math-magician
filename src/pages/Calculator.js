@@ -3,7 +3,7 @@ import Calculator from '../component/calculator';
 import '../styles/calculatorPage.css';
 
 const CalculatorPage = () => (
-  <div className="calcs">
+  <div className="calcs d-flex flex-center">
     <h1 className="calc-title">Let us do some Math!</h1>
     <Calculator />
   </div>
