@@ -1,0 +1,35 @@
+.home {
+  padding: 20px;
+  border-radius: 5px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+
+.home .home-title {
+  font-size: 2.5rem;
+  font-weight: 600;
+  color: #000;
+  text-decoration: none;
+  letter-spacing: 1px;
+  padding: 0.5rem;
+  margin-bottom: 30px;
+}
+
+.home .home-content {
+  font-size: 1.1rem;
+  font-weight: 500;
+  color: #000;
+  text-decoration: none;
+  letter-spacing: 1px;
+  padding: 0.5rem;
+  border-radius: 5px;
+  transition: all 0.3s ease-in-out;
+  display: grid;
+  place-items: center;
+  gap: 10px;
+}
+
+.home .home-content:hover {
+  color: #000;
+  background: #f5f5f5;
+}
